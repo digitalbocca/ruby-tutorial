@@ -2,11 +2,15 @@
 
 ## ruby-tutorial
 
-### v0.1.0
+### v0.2.1
 
 > Tutorial para aprendizado de Ruby.
 
 ## CHANGELOG
+
+### Mudanças na v0.2.1
+
+- Correção no README.
 
 ### Mudanças na v0.2.0
 
