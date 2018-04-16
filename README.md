@@ -2,11 +2,17 @@
 
 ## ruby-tutorial
 
-### v0.2.1
+### v0.3.0
 
 > Tutorial para aprendizado de Ruby.
+>
+> Este Projeto não Receberá Atualizações.
 
 ## CHANGELOG
+
+### Mudanças na v0.3.0
+
+- Legado. Pronto para o Arquivamento.
 
 ### Mudanças na v0.2.1
 
